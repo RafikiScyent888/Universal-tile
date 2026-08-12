@@ -8,6 +8,8 @@ with a single Royal Purple "Universal" tile linking out to:
 - [Port Quiz](https://rafikiscyent888.github.io/Port-Quiz/)
 - [Windows & Linux Commands](https://rafikiscyent888.github.io/Windows-Linux-Commands/)
 - [Patch Bay](https://rafikiscyent888.github.io/Patch-Bay/)
+- [Subnet Calculator](https://rafikiscyent888.github.io/Subnet-Calculator-for-Network/)
+- [OSI Model Lab](https://rafikiscyent888.github.io/OSI-Model/)
 
 Plain HTML/CSS, no build step, no dependencies. Mobile-friendly.
 
